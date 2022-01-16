@@ -1,0 +1,52 @@
+
+h1{
+text-align: center;
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ border-top: 4px solid black;
+font-size: 50px;
+background-color: hsl(0, 89%, 47%);
+}
+.woll{
+    background: black;
+    height: 500px;
+}
+a{
+    background-color: coral;
+    width: 250px;
+    font-size: 40px;
+}
+.dus{
+    color: red;
+    font-size: 30px;
+    float: right;
+    
+}
+.das{
+    color: red;
+    font-size: 30px;
+    float: right;
+    
+}
+.contain{
+    font-size: 40px;
+    width: 300px; height: 60px;
+    text-align: center;
+    background: hsl(0, 89%, 47%);
+}
+.text{
+    
+    font-size: 30px;
+    
+    
+}
+.task{
+    
+   
+    width: 300px; height: 200px;
+    box-sizing: border-box;
+}
+.wonder{
+    background-color: white;
+    width: 300px; height: 200px;
+    margin-left: 100px;
+}
